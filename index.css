@@ -1,0 +1,182 @@
+fieldset{
+    position: relative;
+left:400px;
+border-width: 3px;
+width: 400px;
+border-color: black;
+height: 300px;
+border-radius: 25px 25px 25px;
+}
+
+
+
+.footerContainer{
+    width: 100%;
+    padding: 10px 30px 50px;
+}
+
+
+
+
+.socialicons{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+
+.socialicons a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+
+
+
+.socialicons a i{
+    font-size: 2em;
+    color: black;
+    opacity: 0.9;
+}
+
+
+.socialicons a:hover{
+    background-color: black;
+    transition: 0.5s;
+}
+
+
+
+.socialicons a i:hover{
+    background-color: white;
+    transition: 0.5s;
+}
+
+
+
+.footerbottom{
+    background: color #000;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+h2{
+    text-align: center;
+}
+p{
+font-size: 20px;
+font-family: 'Times New Roman';
+max-width: 600px;
+text-justify: auto;
+text-align: center;
+margin:auto;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 5px;
+
+
+
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 1px;
+    font-family: Cambria math;
+}
+
+
+
+
+
+
+
+body{
+background-color: aquamarine;
+background-image: url("whitebackground1.jpeg");
+
+
+}
+
+
+
+
+
+
+
+
+img{
+    width:1257px;
+    margin-top:-20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul{ list-style-type: none;
+    font-size: large;
+    padding: 0%;
+    background-color:black;
+    overflow: hidden;
+    transform: 2s;
+}
+
+
+
+
+
+
+
+
+li{
+    float: left;
+    
+}
+
+
+
+
+
+   
+li a {
+    display: block;
+    color:white;
+    padding: 10px 66px;
+    text-decoration: none;
+    
+}
+
+
+
+
+
+
+
+li a:hover {
+    background-color: white;  
+    color: black;
+    transition: 2s;
+}
